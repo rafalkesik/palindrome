@@ -1,3 +1,5 @@
+// code ready for 8.2.2
+
 module.exports = Phrase;
 
 // Adds `reverse` to all strings.
